@@ -3,9 +3,10 @@ FIT11 is a comprehensive, AI-driven fitness application designed to replace gues
 
 ## 👥 Team Members
 
-* Musab Barnawi: Lead Developer 
+* Musab Barnawi: Lead Developer
+* Abdelmagid Osman: Lead Developer
 * Omar Alharbi: Frontend Developer
-* Abdelmagid Osman: Frontend Developer
+
 
 ## 🚀 Features
 
@@ -69,6 +70,7 @@ FIT11 is a comprehensive, AI-driven fitness application designed to replace gues
     
 📖 Usage Examples
 
+From the landing page press the login or sign in button to access all the website features including:
 * Creating a Workout:** Navigate to the "AI Workout Builder" from the sidebar, select your goal (e.g., Hypertrophy), input your available equipment, and generate a plan.
 * Generating a Nutrition Plan:** Go to the "AI Nutrition Tracker", enter your dietary preferences and goals, and the AI will generate a customized macro breakdown for you.
 * Exploring the Audio Library:** Navigate to the "Audio Library" to listen to fitness podcasts or watch instructional videos directly within the app.
