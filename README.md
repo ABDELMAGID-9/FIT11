@@ -40,40 +40,38 @@ FIT11 is a comprehensive, AI-driven fitness application designed to replace gues
 
 ## 🛠️ Tech Stack
 
-* **Framework:** [React](https://reactjs.org/) (v18)
-* **Build Tool:** [Vite](https://vitejs.dev/)
-* **Language:** [TypeScript](https://www.typescriptlang.org/)
-* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-* **UI Components:** [Radix UI](https://www.radix-ui.com/) / Custom `shadcn/ui` inspired components.
-* **Icons:** [Lucide React](https://lucide.dev/)
-* **Routing:** [React Router DOM](https://reactrouter.com/)
-* **Notifications:** [Sonner](https://sonner.emilkowal.ski/)
+* Framework: React
+* Languages: JavaScript, HTML, CSS
+* Styling: CSS
+* Routing: React Router DOM
+* Icons: Lucide React
+* Notifications: Sonner
 
 📦 Installation & Setup
 
 1.  Clone the repository
 2.  
-    git clone [https://github.com/yourusername/FIT11.git
+    git [clone https://github.com//FIT11.git](https://github.com/ABDELMAGID-9/FIT11)
+    
     cd FIT11
     
-
-3.  Install dependencies
-    
+4.  Install dependencies
     npm install
 
-4.  **Run the development server**
-
+5.  Run the development server
     npm run dev
+    or
+    npm run dev -- --host
     
 
-5.  Open the app
+7.  Open the app
     The app will be running at `http://localhost:5173`
     
 📖 Usage Examples
 
 * Creating a Workout:** Navigate to the "AI Workout Builder" from the sidebar, select your goal (e.g., Hypertrophy), input your available equipment, and generate a plan.
-* Redeeming Rewards:** Go to the "Leaderboard", click the "Rewards" tab, and select an item. A confirmation dialog with a green checkmark will appear if you have enough points.
-* Using the No-Rep Counter:** Allow camera permissions when prompted in the "No-Rep Counter" section to start real-time form analysis.
+* Generating a Nutrition Plan:** Go to the "AI Nutrition Tracker", enter your dietary preferences and goals, and the AI will generate a customized macro breakdown for you.
+* Exploring the Audio Library:** Navigate to the "Audio Library" to listen to fitness podcasts or watch instructional videos directly within the app.
 
 📂 Project Structure
 
