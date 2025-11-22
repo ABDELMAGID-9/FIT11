@@ -4,8 +4,8 @@ FIT11 is a comprehensive, AI-driven fitness application designed to replace gues
 ## 👥 Team Members
 
 * Musab Barnawi: Lead Developer 
-* 
-* 
+* Omar Alharbi: Frontend Developer
+* Abdelmagid Osman: Frontend Developer
 
 ## 🚀 Features
 
